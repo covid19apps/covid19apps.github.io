@@ -1,4 +1,4 @@
-# <center>Beyond the Virus: Coronavirus-themed Mobile Malware Dataset </center>
+# <center> Coronavirus-themed Mobile Malware Dataset </center>
 
 # Overview
 As COVID-19 continues to spread across the world, a growing number of malicious campaigns are exploiting the pan- demic. It is reported that COVID-19 is being used in a variety of online malicious activities, including Email scam, ransomware and malicious domains. As the number of the afflicted cases continue to surge, malicious campaigns that use coronavirus as a lure are increasing. Malicious developers take advantage of this opportunity to lure mobile users to download and install malicious apps.
