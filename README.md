@@ -11,7 +11,7 @@ However, besides a few media reports, the coronavirus- themed mobile malware has
 
 <b>This Work</b>. To this end, this paper presents the first measurement study of COVID-19 related Android malware. We first make efforts to create a daily growing COVID-19 re- lated mobile app dataset, by collecting samples from a number of sources, including app markets (both Google Play and alternative app markets), a well-known app repository (i.e., Koodous) and the COVID-19 related domains (apps downloaded or connected to these domains). By the time of paper writing, we have curated a dataset of 2,016 COVID-19 themed apps, and 277 of them are considered to be malicious. 
 
-![trend](https://github.com/covid19apps/covid19apps.github.io/blob/master/trend.jpg)
+![trend](https://github.com/covid19apps/covid19apps.github.io/raw/master/trend.jpg)
 
 The number of COVID-19 related apps and malware over the time (from January to May 2020).
 
