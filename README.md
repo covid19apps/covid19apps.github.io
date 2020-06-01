@@ -22,7 +22,7 @@ In this page, we show all the COVID-19 themed apps information, including apk fi
 We are happy to share our COIVD19 themed dataset (APK file). However, in order to prevent any misuse, we kindly ask you to send us a mail to <covid19apps@outlook.com> stating your identity and research scope. We will then send you the APK file samples.
 
 
-If your papers or articles use our dataset, please use the following bibtex reference to cite our paper:
+If your papers or articles use our dataset, please use the following bibtex reference to cite our paper:(https://arxiv.org/abs/2005.14619)
 
         @misc{he2020virus,
             title={Beyond the Virus: A First Look at Coronavirus-themed Mobile Malware},
