@@ -13,7 +13,7 @@ We make efforts to create a daily growing COVID-19 related mobile app dataset. B
 
 
 # COIVD19 themed apps information
-In our dataset, we collect 2,016 COVID-19 themed apps and 277 of them are them are considered to be malicious. To boost the research on coronavirus-themed cybersecurity threats, We have released a daily growing dataset to the research community, and our dataset will update weekly.
+In our dataset, we collect 2,016 COVID-19 themed apps and 277 of them are them are considered to be malicious. To boost the research on coronavirus-themed cybersecurity threats, We have released a daily growing dataset to the research community.
 
 In this page, we show all the COVID-19 themed apps information, including apk file hashes, released date, package name, AV-Rank, etc. For more details, please click [COVID-19 themed apps Information](https://covid19apps.github.io/covid19apps) or [download](https://github.com/covid19apps/covid19apps.github.io/blob/master/covid19apps.xlsx) the file.<br/>
 
