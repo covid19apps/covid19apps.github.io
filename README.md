@@ -21,7 +21,7 @@ We are happy to share our COIVD19 themed dataset (APK file). However, in order t
 
 
 If your papers or articles use our dataset, please use the following bibtex reference to cite our paper:
-:   
+
         @misc{he2020virus,
             title={Beyond the Virus: A First Look at Coronavirus-themed Mobile Malware},
             author={Ren He and Haoyu Wang and Pengcheng Xia and Liu Wang and Yuanchun Li and Lei Wu and Yajin Zhou and Xiapu Luo and Yao Guo and Guoai Xu},
@@ -30,3 +30,4 @@ If your papers or articles use our dataset, please use the following bibtex refe
             archivePrefix={arXiv},
             primaryClass={cs.CR}
         }
+
