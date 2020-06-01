@@ -7,7 +7,7 @@ However, besides a few media reports, the coronavirus-themed mobile malware has 
 
 We make efforts to create a daily growing COVID-19 related mobile app dataset. By the time of May 26, we have curated a dataset of 2,016 COVID-19 themed apps, and 277 of them are considered to be malicious. The number is growing daily and our dataset will update weekly.
 
-<center>![trend](https://wx2.sbimg.cn/2020/06/01/trend1.md.png)</center>
+![trend](https://wx2.sbimg.cn/2020/06/01/trend1.md.png)
 
 <center>The number of COVID-19 related apps and malware over the time (from January to May 2020).</center>
 
