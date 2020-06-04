@@ -21,7 +21,7 @@ In this page, we show all the COVID-19 themed apps information, including apk fi
 # Access the Apk samples
 We are happy to share our COIVD19 themed dataset (APK file). However, in order to prevent any misuse, we kindly ask you to send us a mail to <covid19apps@outlook.com> stating your identity and research scope. We will then send you the APK file samples.
 
-Our dataset is not available on Zenodo, please visit [Coronavirus-themed Mobile Malware Dataset]（https://zenodo.org/record/3875976#.XtjyXGozY8M） to download.
+Our dataset is not available on Zenodo, please visit [Coronavirus-themed Mobile Malware Dataset](https://zenodo.org/record/3875976#.XtjyXGozY8M) to download.
 
 If your papers or articles use our dataset, please use the following bibtex reference to cite our paper: [https://arxiv.org/abs/2005.14619](https://arxiv.org/abs/2005.14619)
 
