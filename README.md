@@ -25,6 +25,7 @@ Our dataset is available on Zenodo, please visit [Coronavirus-themed Mobile Malw
 
 If your papers or articles use our dataset, please use the following bibtex reference to cite our paper: [https://arxiv.org/abs/2005.14619](https://arxiv.org/abs/2005.14619)
 (Accepted to **Empirical Software Engineering**) 
+
         @misc{wang2021virus,
               title={Beyond the Virus: A First Look at Coronavirus-themed Mobile Malware}, 
               author={Liu Wang and Ren He and Haoyu Wang and Pengcheng Xia and Yuanchun Li and Lei Wu and Yajin Zhou and Xiapu Luo and Yao Guo and Guoai Xu},
